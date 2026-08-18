@@ -31,5 +31,5 @@ Your Chinese Zodiac Sign is: Dragon (龙 / Lóng)
 
 <img width="1471" height="916" alt="Screenshot 2026-08-18 194623" src="https://github.com/user-attachments/assets/be62b21c-5ee0-4f6f-b3a6-0a0e846757c4" />
 
-[zodiacMagnesiumLeonardo.py](https://github.com/user-attachments/files/31178256/zodiacMagnesiumLeonardo.py)
+[View my Chinese Zodiac Assignment](https://github.com/user-attachments/files/31178256/zodiacMagnesiumLeonardo.py)
 
