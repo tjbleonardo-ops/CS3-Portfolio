@@ -28,3 +28,17 @@ e. CONSIDER only the year of birth.
 Example input and output:
 Enter your birth year: 2000
 Your Chinese Zodiac Sign is: Dragon (龙 / Lóng)
+
+<img width="1471" height="916" alt="Screenshot 2026-08-18 194623" src="https://github.com/user-attachments/assets/be62b21c-5ee0-4f6f-b3a6-0a0e846757c4" />
+
+while True:
+    year = input("Enter your birth year: ")
+    if year.isdigit():
+        year = int(year)   
+        if 1899 < year < 2027:
+                break
+    print("Please enter a valid year between 1900 and 2026.")
+lista = ["Rat (鼠 / Shǔ)", "Ox (牛 / Niú)", "Tiger (虎 / Hǔ)", "Rabbit (兔 / Tù)", "Dragon (龙 / Lóng)", "Snake (蛇 / Shé)", "Horse (马 / Mǎ)", "Goat (羊 / Yáng)", "Monkey (猴 / Hóu)", "Rooster (鸡 / Jī)", "Dog (狗 / Gǒu)", "Pig (猪 / Zhū)"]
+zodiac_index = (year - 1900) % 12
+zodiac_sign = lista[zodiac_index]
+print(f"Your zodiac sign is {zodiac_sign}.")
