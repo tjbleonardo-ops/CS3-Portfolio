@@ -7,5 +7,5 @@
 
 [View my Chinese Zodiac Assignment](https://github.com/user-attachments/files/31178256/zodiacMagnesiumLeonardo.py)
 
-[View my Chinese Zodiac Assignment](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/ila_oop.md)
+[View my OOP Concept Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/ila_oop.md)
 
