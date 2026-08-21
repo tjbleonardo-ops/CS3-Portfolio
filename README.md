@@ -6,3 +6,6 @@
 [View my Computational Thinking Exercise Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/ctskillsMagnesiumLeonardo.md)
 
 [View my Chinese Zodiac Assignment](https://github.com/user-attachments/files/31178256/zodiacMagnesiumLeonardo.py)
+
+[View my Chinese Zodiac Assignment](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/ila_oop.md)
+
