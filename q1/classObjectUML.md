@@ -13,15 +13,15 @@ This class is used in the context of an online task / homework manager. This cla
 ## Methods
 | Method | Description |
 |---|---|
-|||
-| changeCompleted() | Allows the user to change the "Completed" property of the task. |
-| updateTask() | Allows the user to update the task|
+| sortpriority() | Makes all tasks return a value of Deadline - datetoday, and outputs all tasks in order of what task's deadline is closest to today's date.|
+| changeCompleted(complete : boolean) | Allows the user to change the "Completed" property of the task. |
+| updateTask() | Allows the user to update the task's name, deadline, or type of task.|
 ## Class Diagram
 ![Class Diagram]()
 ## Design Explanation
 ### Why did you choose this class?
 Because it is especially important in times like compliance period or when trying to organize what I'm trying to do. 
 ### Which property is the most important? Why?
-
+The task name, since it allows the specific child tasks to be identified quickly and to reduce confusion on which task is which.
 ### Which method is the most useful? Why?
-
+sortpriority(), since it allows the user to automatically sort all tasks by due date and reorganize their thoughts.
