@@ -1,6 +1,8 @@
 # SG4 - Understanding Classes and Objects
-## Task
-## This class is used in the context of an online task / homework manager. This class contains data fields such as the name of a task, it's deadline, whether or not the task has been completed, and also what the type of task it is.
+## Class Name
+Task
+## Class Description
+This class is used in the context of an online task / homework manager. This class contains data fields such as the name of a task, it's deadline, whether or not the task has been completed, and also what the type of task it is.
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
