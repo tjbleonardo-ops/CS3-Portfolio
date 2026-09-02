@@ -12,10 +12,10 @@ This class is used in the context of an online task / homework manager. This cla
 | Type of Task | String | This property is set by the user and tells the type of task it is (AA, FA, Group Project, etc.) |
 ## Methods
 | Method | Description |
-|---|---|| | |
-
+|---|---|
+|||
 | changeCompleted() | Allows the user to change the "Completed" property of the task. |
-| updateTask() | Allows the user to update |
+| updateTask() | Allows the user to update the task|
 ## Class Diagram
 ![Class Diagram]()
 ## Design Explanation
