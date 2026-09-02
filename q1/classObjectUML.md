@@ -20,8 +20,8 @@ This class is used in the context of an online task / homework manager. This cla
 ![Class Diagram]()
 ## Design Explanation
 ### Why did you choose this class?
-# Because it is especially important in times like compliance period or when trying to organize what I'm trying to do. 
+Because it is especially important in times like compliance period or when trying to organize what I'm trying to do. 
 ### Which property is the most important? Why?
-# 
+
 ### Which method is the most useful? Why?
-# 
+
