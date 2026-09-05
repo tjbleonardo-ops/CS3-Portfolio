@@ -4,7 +4,8 @@ Link to my previous activity:
 [classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
-Describe any changes made to your original class.
+No cha
+
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
