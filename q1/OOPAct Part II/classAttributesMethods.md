@@ -15,7 +15,7 @@ Changed Task Name to task_name, completed to is_completed, Type of Task to task_
 |deadline|Integer|Private||
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](<img width="305" height="405" alt="Screenshot 2026-09-08 221842" src="https://github.com/user-attachments/assets/0c1743ea-8aed-44bc-a0ea-ba7c6b864a72" />)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
