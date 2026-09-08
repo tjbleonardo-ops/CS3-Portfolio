@@ -15,7 +15,8 @@ Changed Task Name to task_name, completed to is_completed, Type of Task to task_
 |deadline|Integer|Private||
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+
+
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
@@ -24,7 +25,8 @@ Changed Task Name to task_name, completed to is_completed, Type of Task to task_
 ![Test Run](images/classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+<img width="813" height="668" alt="image" src="https://github.com/user-attachments/assets/d88b0717-793f-4cc8-acb3-729cc0e08c87" />
+
 
 ## Analysis
 ### Why did you make your chosen attribute private?
