@@ -12,3 +12,5 @@
 [View my OOPAct Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/classObjectUML.md)
 
 [View my OOPAct Activity Part II](https://github.com/tjbleonardo-ops/CS3-Portfolio/tree/main/q1/OOPAct%20Part%20II)
+
+[View my OOPAct Activity Part III](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/OOPAct%20Part%20III/classRelationships.md)
