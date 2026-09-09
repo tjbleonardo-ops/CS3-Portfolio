@@ -1,12 +1,13 @@
 # Class Relationships: Association and Multiplicity
 ## Previous Work
 [Part I - Classes and Objects](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/classObjectUML.md)
-[Part II - Class Attributes and Methods]()
+
+[Part II - Class Attributes and Methods](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/OOPAct%20Part%20II/classAttributesMethods.md)
 ## Existing Class
-Class:
+Class: Task
 Description:
 ## New Related Class
-Class:
+Class: 
 Description:
 ## Association
 Relationship:
