@@ -5,16 +5,24 @@
 [Part II - Class Attributes and Methods](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/OOPAct%20Part%20II/classAttributesMethods.md)
 ## Existing Class
 Class: Task
+
 Description: The blueprint of task objects. Has attributes such as task_name, is_completed, task_type, deadline.
+
 ## New Related Class
 Class: Subject
+
 Description: Stores and sorts task objects into the subject objects based on the task object's assigned subject.
+
 ## Association
 Relationship: Subject has a Task
+
 Explanation:
+
 ## Multiplicity
 Multiplicity: Subject 1 ------- 0..* Tasks
+
 Explanation:
+
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
