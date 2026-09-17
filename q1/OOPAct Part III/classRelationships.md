@@ -14,14 +14,14 @@ Class: Subject
 Description: Stores and sorts task objects into the subject objects based on the task object's assigned subject.
 
 ## Association
-Relationship: Subject has a Task
+Relationship: Subject contains a Task
 
-Explanation:
+Explanation: The subject contains zero or many tasks that are from that subject, and stores their data while also having a function that summarizes the list of tasks in each subject.
 
 ## Multiplicity
 Multiplicity: Subject 1 ------- 0..* Tasks
 
-Explanation:
+Explanation: Tasks are organized by their subject class, where the subject class also stores multiple tasks that belong to it.
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
