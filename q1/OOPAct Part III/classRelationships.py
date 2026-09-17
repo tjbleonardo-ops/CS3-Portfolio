@@ -74,11 +74,4 @@ lass Task:
 task1 = Task("ComSci OOPAct Part II", "FA", 1, False)
 task2 = Task("Filipino Vlog", "AA", 18, False) 
 task_list = [task1, task2]
-Task.sort_priority(task_list)
-for i in task_list:
-   print(i)
-task2.change_completed()
-task1.update_task()
-Task.sort_priority(task_list)
-for i in task_list:
-   print(i)
+
