@@ -1,5 +1,5 @@
 class Task:
-  def __init__(self, task_name: str, task_type: str, deadline: int, is_completed: bool = False, task_subject: str = "Other"):
+  def __init__(self, task_name: str, task_type: str, deadline: int, is_completed: bool = False, task_subject: str):
       self.task_name = task_name
       self.task_type = task_type
       self.__deadline = deadline
