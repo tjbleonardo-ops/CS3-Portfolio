@@ -24,13 +24,13 @@ Multiplicity: Subject 1 ------- 0..* Tasks
 Explanation: Tasks are organized by their subject class, where the subject class also stores multiple tasks that belong to it.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](classRelationshipDiagram.png)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
-![Relationship Test Run](q1/images/relationshipTestRun.png)
+![Relationship Test Run](relationshipTestRun.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](objectRelationshipDiagram.png)
 ## Analysis
 ### What is the association between your two classes?
 
