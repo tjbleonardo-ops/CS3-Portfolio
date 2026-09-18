@@ -35,9 +35,11 @@ Explanation: Tasks are organized by their subject class, where the subject class
 ### What is the association between your two classes?
 
 ### What multiplicity did you choose and why?
-One to zero or many, since one subject can have multiple tasks.
+One to zero or many. I chose this multiplicity since a single real life subject can have multiple tasks or none at all, and if I had made my code assigned for a one to one or many, then there would always have to be one task in the subject even if there are no tasks given by the teacher. Overall, the zero to many multiplicity makes arranging and storing tasks easier, while also not worrying what will happen if there are no tasks in a subject.
+
 ### How did you implement the relationship in Python?
-not yet
+I implemented the relationship by first initializing an extra attribute to the already existing task class, called task_subject. After that, the related class Subject was made with attributes subject_name and subject_weight, as well as three methods such as import_task, display_task, and add_task. The add_task checks every task object's task_subject attribute to see if it matches with the subject's subject_name, and if it did, it added it to the self.__task_list, which stores the task objects assigned to that subject.
+
 ### Why did you store an object reference instead of copying its data?
 
 ### If your relationship uses many, why is a list appropriate?
