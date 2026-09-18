@@ -9,7 +9,7 @@
 
 [View my OOP Concept Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/ila_oop.md)
 
-[View my OOPAct Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/classObjectUML.md)
+[View my OOPAct Activity Part I](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/classObjectUML.md)
 
 [View my OOPAct Activity Part II](https://github.com/tjbleonardo-ops/CS3-Portfolio/tree/main/q1/OOPAct%20Part%20II)
 
