@@ -15,16 +15,16 @@ Changed Task Name to task_name, completed to is_completed, Type of Task to task_
 |deadline|Integer|Private|To protect it from getting negative values or from having other values influence it.|
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+[Class Diagram](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/images/classDiagramSG5.png)
 
 ## Python Implementation
-[View Python Source](classImplementation.py)
+[View Python Source](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/OOPAct%20Part%20II/classImplementation.py)
 
 ## Test Run
-![Test Run](images/classTestRun.png)
+[Test Run](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/images/classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+[Object Diagram](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/images/objectDiagram.png)
 
 ## Analysis
 ### Why did you make your chosen attribute private?
