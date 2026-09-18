@@ -49,4 +49,5 @@ Because lists store many values while acting as one variable. Lists can be easil
 
 ## Changes:
 -Replaced sort_priority with lt function
+
 -Added task_subject to task attributes
