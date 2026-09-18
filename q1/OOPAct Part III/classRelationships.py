@@ -104,9 +104,9 @@ class Subject:
             print("Task not added to any subject.")
 
 
-english = Subject("English",1.7)
-filipino = Subject("Filipino",1)
-comsci = Subject("ComSci",1)
+english = Subject("English", 1.7) #hindi po talaga 1.7 ang weight ng english
+filipino = Subject("Filipino", 1)
+comsci = Subject("ComSci", 1)
 
 subjects = [english, filipino, comsci]
 
