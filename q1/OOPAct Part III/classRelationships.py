@@ -27,7 +27,7 @@ class Task:
 #replaces func "sort_priority"
   def __lt__(self, other: "Task"):
       return self.__deadline < other.__deadline
-
+  
      
 #individual task print    
   def __str__(self):
@@ -118,7 +118,7 @@ task4 = Task("OOPAct Part IV", "FA", 4, False, "ComSci")
 task_list = [task1, task2, task3, task4]
 print("Before ---------------------------------------------------------------------\n")
 for i, task in enumerate(sorted(task_list)):
-         print(f" {i+1}. {task}")
+  print(f" {i+1}. {task}")
 print("")
 
 print("During ---------------------------------------------------------------------\n")
