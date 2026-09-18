@@ -70,7 +70,7 @@ class Task:
             print("Task editing cancelled due to invalid input. Try again.")
             
 class Subject:
-   def __init__(self, subject_name: str, subject_weight: int):
+   def __init__(self, subject_name: str, subject_weight: float):
       self.subject_name = subject_name
       self.subject_weight = subject_weight
       self.__task_list = []
