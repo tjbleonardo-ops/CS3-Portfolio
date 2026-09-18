@@ -28,7 +28,7 @@ Explanation: Tasks are organized by their subject class, where the subject class
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](q1/images/relationshipTestRun.png)
 ## Object Relationship Diagram
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png)
 ## Analysis
