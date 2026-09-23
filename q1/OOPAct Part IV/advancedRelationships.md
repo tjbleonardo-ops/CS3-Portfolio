@@ -1,17 +1,22 @@
 # Advanced Class Relationships
 ## Previous Activities
 [classAttrib](classAttributesMethods.md)
+
 [classRel](classRelationships.md)
 ## Existing System Description:
+
 ## Inheritance Relationship
 Parent:
+
 Child:
+
 Explanation:
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
-Relationship:
-Explanation:
+Relationship: Aggregation
+
+Explanation: A task can exist independently without a subject assigned to it, making it unassigned, but not necessarily non-existent.
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
 ## Python Implementation
