@@ -110,16 +110,16 @@ class Task(Subject):
 english = Subject("English",1.7)
 filipino = Subject("Filipino",1)
 comsci = Subject("ComSci",1)
-stats = Subject("Stats",1)
-subjects = [english, filipino, comsci, stats]
 
-task1 = Task("OOPAct Part LXVII", "FA", 100, False, "ComSci")
-task2 = Task("Vlog", "AA", 2, False, "Filipino") 
+subjects = [english, filipino, comsci]
+
+task1 = Task("OOPAct Part III", "FA", 1, False, "ComSci")
+task2 = Task("60 Second Pitch", "AA", 3, False, "Filipino") 
 task3 = Task("Shoebox Diorama", "AA", 5, False, "English")
-task4 = Task("OOPAct Part IV", "FA", 1, True, "ComSci")
-task5 = Task("Stats Infographic", "AA", 1, False, "Stats")
+task4 = Task("OOPAct Part IV", "FA", 4, True, "ComSci")
 
-task_list = [task1, task2, task3, task4, task5]
+
+task_list = [task1, task2, task3, task4]
 print("Before ---------------------------------------------------------------------\n")
 for i, task in enumerate(sorted(task_list)):
    print(f" {i+1}. {task}")
@@ -134,6 +134,7 @@ print("After -------------------------------------------------------------------
 english.display_subject()
 filipino.display_subject()
 comsci.display_subject()
-stats.display_subject()
+
+
 
 
