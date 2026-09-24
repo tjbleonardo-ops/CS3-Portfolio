@@ -114,8 +114,8 @@ comsci = Subject("ComSci",1)
 subjects = [english, filipino, comsci]
 
 task1 = Task("OOPAct Part III", "FA", 1, False, "ComSci")
-task2 = Task("60 Second Pitch", "AA", 3, False, "Filipino") 
-task3 = Task("Shoebox Diorama", "AA", 5, False, "English")
+task2 = Task("Vlog", "AA", 8, False, "Filipino") 
+task3 = Task("60 Second Pitch", "AA", 3, False, "English")
 task4 = Task("OOPAct Part IV", "FA", 4, True, "ComSci")
 
 
