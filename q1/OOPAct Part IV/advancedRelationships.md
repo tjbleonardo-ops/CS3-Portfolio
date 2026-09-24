@@ -6,11 +6,12 @@
 ## Existing System Description:
 
 ## Inheritance Relationship
-Parent:
+Parent: Subject
 
-Child:
+Child: Task
 
-Explanation:
+Explanation: The class "Task" has attributes task_name, is_completed, task_type, deadline, and task_subject, as well as methods change_completed, update_task, and __lt__. The class "Subject" contains attributes subject_name and subject_weight, as well as methods add_task, display_task, and import_task(task: Task). The child class task inherits the attributes subject_name and subject_weight from the parent class subject.
+
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
