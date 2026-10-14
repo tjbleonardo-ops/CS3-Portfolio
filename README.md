@@ -15,4 +15,6 @@
 
 [View my OOPAct Activity Part III](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/OOPAct%20Part%20III/classRelationships.md)
 
-[View my OOPAct Activity Part IV]()
+[View my OOPAct Activity Part IV](http://github.com/tjbleonardo-ops/CS3-Portfolio/tree/main/q1/OOPAct%20Part%20IV)
+
+[View my Study Guide 8 – Encapsulation Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py)
