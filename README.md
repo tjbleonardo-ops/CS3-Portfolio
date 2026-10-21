@@ -3,6 +3,8 @@
 ## Name: Thomasse Jakob B. Leonardo
 ## Section: 9 - Magnesium
 
+## Quarter 1
+
 [View my Computational Thinking Exercise Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q1/ctskillsMagnesiumLeonardo.md)
 
 [View my Chinese Zodiac Assignment](https://github.com/user-attachments/files/31178256/zodiacMagnesiumLeonardo.py)
@@ -17,4 +19,8 @@
 
 [View my OOPAct Activity Part IV](http://github.com/tjbleonardo-ops/CS3-Portfolio/tree/main/q1/OOPAct%20Part%20IV)
 
+## Quarter 2
+
 [View my Study Guide 8 – Encapsulation Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py)
+
+[View my Study Guide 9 – Inheritance Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py)
