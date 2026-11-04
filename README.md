@@ -24,3 +24,5 @@
 [View my Study Guide 8 – Encapsulation Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py)
 
 [View my Study Guide 9 – Inheritance Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q2/sg9_inheritance.py)
+
+[View my Study Guide 10 - Overriding Activity](https://github.com/tjbleonardo-ops/CS3-Portfolio/blob/main/q2/sg10_overriding.py)
