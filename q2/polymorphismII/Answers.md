@@ -21,4 +21,4 @@ c. Creates one object of each class.
 d. Calls the start_trip() method for each object.
 
 3. How does the code in 2.2 demonstrate polymorphism?
-
+The code demonstrates polymorphism since every class that had the method move() could be called even if the function that calls them does not directly call the class. If the class can move like a vehicle, then it is a vehicle.
